@@ -18,5 +18,7 @@ public class KursiAksi {
          Reza.Bentuk="panjang";
          Reza.Harga="5000000";
          Reza.Bahan="campuran";
+         
+         Reza.cetakInfo();
     }
 }
