@@ -12,5 +12,11 @@ package praktek01;
 public class KursiAksi {
     public static void main(String[] args) {
          Kursi Reza = new Kursi();
+         
+         Reza.Merk="chitose";
+         Reza.Warna="coklat";
+         Reza.Bentuk="panjang";
+         Reza.Harga="5000000";
+         Reza.Bahan="campuran";
     }
 }
